@@ -31,19 +31,23 @@ Welcome to the **E-Commerce Website** project! This is a simple front-end eComme
 
 ### 1️⃣ Homepage
 
-![Homepage](images/homepage.png)
+![Homepage](https://github.com/Nitinlomte/ecomerce-html-css/blob/main/ScreenShots/Screenshot%202025-02-08%20172754.png)
 
 ### 2️⃣ Product Page
 
-![Product Page](images/product-page.png)
+![Product Page](https://github.com/Nitinlomte/ecomerce-html-css/blob/main/ScreenShots/Screenshot%202025-02-08%20172809.png)
+![Product Page](https://github.com/Nitinlomte/ecomerce-html-css/blob/main/ScreenShots/Screenshot%202025-02-08%20172827.png)
+### 3️⃣ New stock
 
-### 3️⃣ Cart Page
-
-![Cart Page](images/cart-page.png)
+![New stock](https://github.com/Nitinlomte/ecomerce-html-css/blob/main/ScreenShots/Screenshot%202025-02-08%20172843.png)
 
 ### 4️⃣ Responsive View
 
-![Responsive View](images/responsive-view.png)
+![Responsive View](https://github.com/Nitinlomte/ecomerce-html-css/blob/main/ScreenShots/Screenshot%202025-02-08%20172904.png)
+
+### 5️⃣ About us
+
+![About us](https://github.com/Nitinlomte/ecomerce-html-css/blob/main/ScreenShots/Screenshot%202025-02-08%20172936.png)
 
 ## 📜 License
 
