@@ -1,2 +1,2 @@
 # ecomerce-html-css
- Nitinlomteecomerce-html-css
+ ecomerce-html-css
